@@ -18,6 +18,7 @@ Frameworks: PySimpleGUI
 
 
 2. You should have 'PySimpleGUI' framework installed to run the codes. 
+
 To install it write below line:
 
 pip install pysimplegui
@@ -25,6 +26,7 @@ pip install pysimplegui
 
 
 3. For now app has functionalities for:
+
 - adding new transactions ("Add Transactions" button)
 - saving newly added transactions as a CSV/Excel file (into \...\Documents\Capital) folder ("Save" button from Menu)
 - importing saved transactions ("Import" button from Menu)
@@ -35,6 +37,7 @@ pip install pysimplegui
 4. More details about what's been done in the final app:
 
 DONE
+
 1. add transactions with details (date, income/expenses, category, memo, amount) -> Add Transactions button
 2. file creation (CSV, Excel) -> Save button
 3. importing files that were created by the Capital app -> Import button
@@ -43,6 +46,7 @@ DONE
 6. put the app on github (profile)
 
 UNDONE
+
 7. analytics page (diagrams for [income/expenses])
 8. yearly, monthly daily targets
 9. welcome page with icon
