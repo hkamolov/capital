@@ -2,8 +2,11 @@
  Class Project
 
 Author: Hojiakbar Kamolov
+
 Project: Capital Management Desktop Application
+
 Languages: Python
+
 Frameworks: PySimpleGUI
 
 
@@ -11,9 +14,9 @@ Frameworks: PySimpleGUI
 ---IMPORTANT NOTICE---
 
 1. Put these two files and a folder (images) in the same directory:
-- capital.py 
-- export_file.py
-- images (folder)
+- capital.py.
+- export_file.py.
+- images (folder).
 
 
 
@@ -27,9 +30,9 @@ pip install pysimplegui
 
 3. For now app has functionalities for:
 
-- adding new transactions ("Add Transactions" button)
-- saving newly added transactions as a CSV/Excel file (into \...\Documents\Capital) folder ("Save" button from Menu)
-- importing saved transactions ("Import" button from Menu)
+- adding new transactions ("Add Transactions" button).
+- saving newly added transactions as a CSV/Excel file (into \...\Documents\Capital) folder ("Save" button from Menu).
+- importing saved transactions ("Import" button from Menu).
 
 
 
