@@ -1,4 +1,4 @@
-Student: Hojiakbar Kamolov
+Students: Hojiakbar Kamolov, Afzal Yusupov
 
 Project: Capital Management Desktop Application
 Languages: Python
@@ -22,15 +22,18 @@ pip install pysimplegui
 
 
 
-3. For now app has functionalities for:
+3. You might also need to install Python 3.6 Version to successfully run the code
+
+
+
+4. For now app has functionalities for:
 - adding new transactions ("Add Transactions" button)
 - saving newly added transactions as a CSV/Excel file (into \...\Documents\Capital) folder ("Save" button from Menu)
 - importing saved transactions ("Import" button from Menu)
 
 
 
-
-4. More details about what's been done in the final app:
+5. More details about what's been done in the final app:
 
 DONE
 1. add transactions with details (date, income/expenses, category, memo, amount) -> Add Transactions button
