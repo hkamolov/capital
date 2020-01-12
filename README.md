@@ -49,7 +49,7 @@ Finally, what has been done in the final program until now:
 
 DONE:
 
-1. Adding transactions with details (date, income/expenses, category, memo, amount) -> `Add Transaction` button in the main window
+### 1. Adding transactions with details (date, income/expenses, category, memo, amount) -> `Add Transaction` button in the main window
 
 
 ![capital-add-transaction](screenshots/2.%20add%20a%20new%20transaction.png)
@@ -59,7 +59,7 @@ DONE:
 
 
 
-2. File creation (CSV, Excel) -> `Save` button from the menu `File`
+### 2. File creation (CSV, Excel) -> `Save` button from the menu `File`
 
 
 ![capital-save-transactions](screenshots/5.%20saving%20added%20transactions.png)
@@ -69,7 +69,7 @@ DONE:
 
 
 
-3. Importing files that were created by the Capital app -> `Import` button from the menu `File`
+### 3. Importing files that were created by the Capital app -> `Import` button from the menu `File`
 
 
 ![capital-save-transactions](screenshots/7.%20importing%20an%20existing%20file%20from%20Capital%20folder.png)
@@ -82,14 +82,14 @@ DONE:
 
 
 
-4. Showing added transactions in main window list
+### 4. Showing added transactions in main window list
 
 
 ![capital-save-transactions](screenshots/4.%20added%20transactions%20in%20main%20window.png)
 
 
 
-5. Showing calendar inside the main window
+### 5. Showing calendar inside the main window
 
 
 ![capital-save-transactions](screenshots/1.%20main%20window.png)
