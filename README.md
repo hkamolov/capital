@@ -39,8 +39,8 @@ Once the packages are installed, put these two files - `capital.py`, `export_fil
 For now app has functionalities for:
 
 - adding new transactions with `Add Transaction` button in the main window.
-- saving newly added transactions as a `CSV` or `Excel` file into `\...\Documents\Capital` folder with `Save` button from the `File` menu.
-- importing saved transaction files with `Import` button from the `File` menu.
+- saving newly added transactions as a `CSV` or `Excel` file into `\...\Documents\Capital` folder with `Save` button from the menu `File`.
+- importing saved transaction files with `Import` button from the menu `File`.
 
 
 ## More details
@@ -59,7 +59,7 @@ DONE:
 
 
 
-2. File creation (CSV, Excel) -> `Save` button from the `File` menu
+2. File creation (CSV, Excel) -> `Save` button from the menu `File`
 
 
 ![capital-save-transactions](screenshots/5.%20saving%20added%20transactions.png)
@@ -69,7 +69,7 @@ DONE:
 
 
 
-3. Importing files that were created by the Capital app -> `Import` button
+3. Importing files that were created by the Capital app -> `Import` button from the menu `File`
 
 
 ![capital-save-transactions](screenshots/7.%20importing%20an%20existing%20file%20from%20Capital%20folder.png)
