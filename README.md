@@ -36,7 +36,7 @@ Once the packages are installed, put these two files - `capital.py`, `export_fil
 
 ## Functionalities of the Program:
 
-For now app has functionalities for:
+For now program has functionalities for:
 
 - adding new transactions with `Add Transaction` button in the main window.
 - saving newly added transactions as a `CSV` or `Excel` file into `\...\Documents\Capital` folder with `Save` button from the menu `File`.
