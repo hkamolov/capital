@@ -78,7 +78,6 @@ DONE:
 ![capital-save-transactions](screenshots/8.%20choosing%20an%20existing%20CSV%20file%20to%20import.png)
 
 
-![capital-save-transactions](screenshots/9.%20result%20of%20importing%20the%20CSV%20file.png)
 
 
 
