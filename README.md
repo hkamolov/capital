@@ -1,9 +1,9 @@
-# Financial Management App for Individuals and Households
+# Financial Management App
 
 <img src="images/logo-capital.png" width="200" >
 
 
-## Capital Desktop Application that Helps Families Track Their Expenses, Income, and Balance Sheets Daily
+## The application tracks finances for individuals and households
 
 ![Capital-Logo](screenshots/10.%20last%20view.png)
 
