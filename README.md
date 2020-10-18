@@ -1,4 +1,4 @@
-# Capital Management for a Family
+# Financial Management App for Individuals and Households
 
 <img src="images/logo-capital.png" width="200" >
 
