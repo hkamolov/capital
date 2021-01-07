@@ -75,7 +75,6 @@ DONE:
 ![capital-save-transactions](screenshots/7.%20importing%20an%20existing%20file%20from%20Capital%20folder.png)
 
 
-![capital-save-transactions](screenshots/8.%20choosing%20an%20existing%20CSV%20file%20to%20import.png)
 
 
 
